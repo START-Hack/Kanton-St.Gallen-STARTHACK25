@@ -1,5 +1,6 @@
 # <p align="center"> InnoPortal - <br> An AI-Powered Guide for Personalized Innovation Experience. </p>
-
+<h1 align="center">InnoPortal</h1>
+<p align="center">An AI-Powered Guide for Personalized Innovation Experience.</p>
 
 
 # <p align="center"> Who are we? </p>
@@ -31,6 +32,7 @@
 
 
 ## <p align="center"> Data </p>
+The provided date includes:
  <ul>
     <li>Detailed description of 5 user profiles (personas).</li>
     <li>Non-exhaustive CSV dataset of the innovation ecosystem of the Canton St. Gallen.</li>
