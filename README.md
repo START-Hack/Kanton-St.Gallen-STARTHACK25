@@ -51,10 +51,10 @@ The provided date includes:
 
 
 
-## <p align="center"> The Pitch: </p>
+## <p align="center"> The Pitch </p>
 [Link to the video pitch]
 
-## <p align="center"> Deep Dive Slides: </p>
+## <p align="center"> Deep Dive Slides </p>
 
 <p align="center">  </p>
 
@@ -102,7 +102,7 @@ The provided date includes:
     <li>How clear and persuasive is the final presentation?</li>
 </ul>
     
-## <p align="center"> Point of Contact: </p>
+## <p align="center"> Point of Contact </p>
 <p>Simon Schlegel, Project Manager for Innovation at the Economic Promotion Office of the Canton of St. Gallen.</p>
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
