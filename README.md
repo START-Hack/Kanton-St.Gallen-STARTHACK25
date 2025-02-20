@@ -62,7 +62,7 @@ The provided date includes:
 <p><strong>Presentation</strong></p>
     <ul>
         <li>User friendly handout summarizing key facts and technical insights.</li>
-        <li>Format pptx or pdf(pptx).</li>
+        <li>Format: pptx or pdf.</li>
     </ul>
     <p><strong>Key Elements</strong></p>
     <ul>
