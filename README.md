@@ -78,7 +78,7 @@
     <li><strong>Feasibility (20%)</strong>
         <ul>
             <li>How is the maturity level of the solution?</li>
-        </ul>
+        </ul> <br>
     </li>
     <li><strong>Creativity (20%)</strong>
         <ul>
