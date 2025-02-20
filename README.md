@@ -56,17 +56,22 @@
 
 <p align="center">  </p>
 
-## <p align="center"> Delivery Objects </p>
+## <p align="center"> Presentation & Deliverables </p>
 <p><strong>Presentation</strong></p>
     <ul>
-        <li>Pitch deck (PowerPoint or Google Slides).</li>
-        <li>A handout summarizing key facts and technical insights.</li>
+        <li>User friendly handout summarizing key facts and technical insights.</li>
+        <li>Format pptx or pdf(pptx).</li>
     </ul>
     <p><strong>Key Elements</strong></p>
     <ul>
         <li><strong>User Experience:</strong> A live demonstration of the platform, including onboarding and adaptive coaching.</li>
         <li><strong>Technical Implementation:</strong> System architecture, AI logic, and personalization mechanism.</li>
     </ul>
+    <p><strong>Prototype</strong></p>
+    <ul>
+        <li><strong>Working and functionale MVP.</li>
+    </ul>
+    
 
 ## <p align="center"> Judging Criteria </p>
  <ul>
