@@ -56,7 +56,19 @@
 
 <p align="center">  </p>
 
-## <p align="center"> Judging Criteria: </p>
+## <p align="center"> Delivery Objects </p>
+<p><strong>Presentation</strong></p>
+    <ul>
+        <li>Pitch deck (PowerPoint or Google Slides).</li>
+        <li>A handout summarizing key facts and technical insights.</li>
+    </ul>
+    <p><strong>Key Elements</strong></p>
+    <ul>
+        <li><strong>User Experience:</strong> A live demonstration of the platform, including onboarding and adaptive coaching.</li>
+        <li><strong>Technical Implementation:</strong> System architecture, AI logic, and personalization mechanism.</li>
+    </ul>
+
+## <p align="center"> Judging Criteria </p>
  <ul>
         <li><strong>Feasibility (20%)</strong> – How is the maturity level of the solution?</li>
         <li><strong>Creativity (20%)</strong> – How unique and forward-thinking is the approach?</li>
@@ -64,9 +76,8 @@
         <li><strong>Relevance and Market Potential (20%)</strong> – How practical and impactful is the solution for real-world users?</li>
         <li><strong>Presentation & Communication (10%)</strong> – How clear and persuasive is the final presentation?</li>
     </ul>
-
-
+    
 ## <p align="center"> Point of Contact: </p>
-
+<p>Simon Schlegel, Project Manager for Innovation at the Economic Promotion Office of the Canton of St. Gallen.</p>
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
