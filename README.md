@@ -6,10 +6,10 @@
 
 
 ## <p align="center"> Case Introduction: </p>
-<h2 align="center">Problem</h2>
+<h2 Problem</h2>
     <p>Innovation is not a one-size-fits-all process; different personas have varying levels of experience, face distinct challenges, and have unique needs. Existing solutions often lack personalized guidance, leading to disengagement when users do not feel adequately supported. Many abandon the innovation process due to a lack of tailored insights relevant to their specific situation.</p>
-
-    <h2 align="center">Expected Final Product</h2>
+    <br>
+    <h2 Expected Final Product</h2>
     <p>The AI-powered Innovation Coach should ensure that:</p>
     <ul>
         <li>Users are onboarded based on their current innovation level and knowledge.</li>
@@ -17,7 +17,7 @@
         <li>Industry-specific personalization is provided (e.g., an engineer receives different recommendations than a baker).</li>
         <li>The platform enables interactive engagement, answering questions in real-time and keeping users motivated.</li>
     </ul>
-
+    <br>
     <h2 align="center">Users</h2>
     <p>SME in the Canton of St. Gallen with the following profiles:</p>
     <ul>
