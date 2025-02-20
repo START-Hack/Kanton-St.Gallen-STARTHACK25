@@ -1,11 +1,11 @@
-# <p align="center"> InnoPortal: An AI-Powered Guide for Personalized Innovation Experience. </p>
+# <p align="center"> InnoPortal - <br> An AI-Powered Guide for Personalized Innovation Experience. </p>
 
 
 
 # <p align="center"> Who are we? </p>
 
 
-## <p align="center"> Case Introduction: </p>
+## <p align="center"> Case Introduction </p>
 <h3>Problem</h3>
 <p>Innovation is not a one-size-fits-all process; different personas have varying levels of experience, face distinct challenges, and have unique needs. Existing solutions often lack personalized guidance, leading to disengagement when users do not feel adequately supported. Many abandon the innovation process due to a lack of tailored insights relevant to their specific situation.</p>
 
@@ -30,7 +30,22 @@
 <p>The solution should include as many users as possible, but at least three.</p>
 
 
-## <p align="center"> Expected Outcome: </p>
+## <p align="center"> Data </p>
+ <ul>
+    <li>Detailed description of 5 user profiles (personas).</li>
+    <li>Non-exhaustive CSV dataset of the innovation ecosystem of the Canton St. Gallen.</li>
+</ul>
+
+## <p align="center"> Technology </p>
+<p>The implementation of the AI-powered Innovation Coach is technology-agnostic, meaning participants are free to choose the most suitable technologies based on feasibility, scalability, and user experience.</p>
+
+## <p align="center"> Use Case </p>
+<p>The AI-powered Innovation Coach guides users through the innovation process, adapting to their experience level and industry-specific requirements. It provides:</p>
+<ul>
+    <li><strong>Personalized Onboarding Experience:</strong> The system tailors the innovation journey based on the user’s industry and experience level.</li>
+    <li><strong>Relevant & Practical Guidance:</strong> The AI-driven recommendations align with the user’s real-world challenges.</li>
+    <li><strong>Long-Term Motivation & Engagement:</strong> The dynamic coaching approach ensures that users feel supported throughout their innovation process.</li>
+</ul>
 
 
 
@@ -42,7 +57,13 @@
 <p align="center">  </p>
 
 ## <p align="center"> Judging Criteria: </p>
-
+ <ul>
+        <li><strong>Feasibility (20%)</strong> – How is the maturity level of the solution?</li>
+        <li><strong>Creativity (20%)</strong> – How unique and forward-thinking is the approach?</li>
+        <li><strong>User Experience & Personalization (30%)</strong> – How well does the system adapt to individual user needs and motivates users?</li>
+        <li><strong>Relevance and Market Potential (20%)</strong> – How practical and impactful is the solution for real-world users?</li>
+        <li><strong>Presentation & Communication (10%)</strong> – How clear and persuasive is the final presentation?</li>
+    </ul>
 
 
 ## <p align="center"> Point of Contact: </p>
