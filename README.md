@@ -6,7 +6,7 @@
 
 
 ## <p align="center"> Case Introduction: </p>
-<b> Problem</b>
+<b>Problem</b>
     <p>Innovation is not a one-size-fits-all process; different personas have varying levels of experience, face distinct challenges, and have unique needs. Existing solutions often lack personalized guidance, leading to disengagement when users do not feel adequately supported. Many abandon the innovation process due to a lack of tailored insights relevant to their specific situation.</p>
     <br>
     <b> Expected Final Product</b>
