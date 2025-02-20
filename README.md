@@ -1,9 +1,9 @@
 # <p align="center"> InnoPortal - <br> An AI-Powered Guide for Personalized Innovation Experience </p>
 
 ## <p align="center"> Who are we? </p>
-<p>The Economic Promotion of the Canton of St. Gallen is a driving force behind economic growth, innovation, and business excellence in the region. As a catalyst for prosperity, we help to develop a thriving business environment, attract forward-thinking enterprises, and strengthen St. Gallen’s position as a dynamic economic hub.
+<p>The Economic Promotion of the Canton of St. Gallen is a driving force behind economic growth, innovation, and business excellence in the region. As a catalyst for prosperity, we help to develop a thriving business environment, attract forward-thinking enterprises and strengthen St. Gallen’s position as a dynamic economic hub.
 
-With a future-oriented mindset, we build bridges between industry, research, and government, making St. Gallen not only a place to do business, but a place to succeed.
+With a future-oriented mindset, we build bridges between industry, research and government, making St. Gallen not only a place to do business, but a place to succeed.
 </p>
 
 ## <p align="center"> Case Introduction </p>
