@@ -1,4 +1,4 @@
-# <p align="center"> TITLE. </p>
+# <p align="center"> InnoPortal: An AI-Powered Guide for Personalized Innovation Experience. </p>
 
 
 
