@@ -74,13 +74,33 @@
     
 
 ## <p align="center"> Judging Criteria </p>
- <ul>
-        <li><strong>Feasibility (20%)</strong> – How is the maturity level of the solution?</li>
-        <li><strong>Creativity (20%)</strong> – How unique and forward-thinking is the approach?</li>
-        <li><strong>User Experience & Personalization (30%)</strong> – How well does the system adapt to individual user needs and motivates users?</li>
-        <li><strong>Relevance and Market Potential (20%)</strong> – How practical and impactful is the solution for real-world users?</li>
-        <li><strong>Presentation & Communication (10%)</strong> – How clear and persuasive is the final presentation?</li>
-    </ul>
+<ul>
+    <li><strong>Feasibility (20%)</strong>
+        <ul>
+            <li>How is the maturity level of the solution?</li>
+        </ul>
+    </li>
+    <li><strong>Creativity (20%)</strong>
+        <ul>
+            <li>How unique and forward-thinking is the approach?</li>
+        </ul>
+    </li>
+    <li><strong>User Experience & Personalization (30%)</strong>
+        <ul>
+            <li>How well does the system adapt to individual user needs and motivates users?</li>
+        </ul>
+    </li>
+    <li><strong>Relevance and Market Potential (20%)</strong>
+        <ul>
+            <li>How practical and impactful is the solution for real-world users?</li>
+        </ul>
+    </li>
+    <li><strong>Presentation & Communication (10%)</strong>
+        <ul>
+            <li>How clear and persuasive is the final presentation?</li>
+        </ul>
+    </li>
+</ul>
     
 ## <p align="center"> Point of Contact: </p>
 <p>Simon Schlegel, Project Manager for Innovation at the Economic Promotion Office of the Canton of St. Gallen.</p>
