@@ -1,6 +1,4 @@
-# <p align="center"> InnoPortal - <br> <h2>An AI-Powered Guide for Personalized Innovation Experience.</h2> </p>
-<h1 align="center">InnoPortal</h1><br> <h2>An AI-Powered Guide for Personalized Innovation Experience.</h2>
-
+# <p align="center"> InnoPortal - <br> An AI-Powered Guide for Personalized Innovation Experience. </p>
 
 # <p align="center"> Who are we? </p>
 
