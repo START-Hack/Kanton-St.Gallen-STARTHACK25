@@ -71,7 +71,7 @@ The provided date includes:
     </ul>
     <p><strong>Prototype</strong></p>
     <ul>
-        <li><strong>Working and functionale MVP.</li>
+        <li><strong>Working and functional MVP.</li>
     </ul>
     
 
