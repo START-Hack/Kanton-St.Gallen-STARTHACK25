@@ -92,7 +92,7 @@ The provided date includes:
     <li>How well does the system adapt to individual user needs and motivates users?</li>
 </ul>
 
-<strong>Relevance and Market Potential (20%)</strong>
+<strong>Relevance & Market Potential (20%)</strong>
 <ul>
     <li>How practical and impactful is the solution for real-world users?</li>
 </ul>
