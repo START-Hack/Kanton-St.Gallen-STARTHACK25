@@ -104,5 +104,5 @@ The provided date includes:
 <p>Simon Schlegel, Project Manager for Innovation at the Economic Promotion Office of the Canton of St. Gallen.</p>
 
 ## <p align="center"> Prize</p>
-<p>The winning team will be rewarded with an unforgettable alpine experience! <br>
-Take a spectacular cable car ride to Säntis, one of the highest and most famous peaks in Eastern Switzerland. Once at the top, enjoy a delicious lunch while taking in the breathtaking mountain views!</p>
+<h3>The winning team will be rewarded with an unforgettable alpine experience!</h3> <br>
+Take a spectacular cable car ride to Säntis, one of the highest and most famous peaks in Eastern Switzerland. Once at the top, enjoy a delicious lunch while taking in the breathtaking mountain views!
