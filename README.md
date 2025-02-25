@@ -64,8 +64,8 @@ The provided date includes:
     </ul>
     <p><strong>Key Elements</strong></p>
     <ul>
-        <li><strong>User Experience:</strong> A live demonstration of the platform, including onboarding and adaptive coaching.</li>
-        <li><strong>Technical Implementation:</strong> System architecture, AI logic, and personalization mechanism.</li>
+        <li><strong>User experience:</strong> A live demonstration of the platform, including onboarding and adaptive coaching.</li>
+        <li><strong>Technical implementation:</strong> System architecture, AI logic and personalization mechanism.</li>
     </ul>
     <p><strong>Prototype</strong></p>
     <ul>
