@@ -103,6 +103,6 @@ The provided date includes:
 ## <p align="center"> Point of Contact </p>
 <p>Simon Schlegel, Project Manager for Innovation at the Economic Promotion Office of the Canton of St. Gallen.</p>
 
-## <p align="center"> Prize - the winning team members will each receive: </p>
+## <p align="center"> Prize</p>
 <H3>The winning team will be rewarded with a breathtaking Säntis-experience! </H3>
 <p>Enjoy a spectacular cable ride to the summit and a delicious lunch with stunning alpine view!</p>
