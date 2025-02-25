@@ -104,5 +104,5 @@ The provided date includes:
 <p>Simon Schlegel, Project Manager for Innovation at the Economic Promotion Office of the Canton of St. Gallen.</p>
 
 ## <p align="center"> Prize</p>
-<H3>The winning team will be rewarded with a breathtaking Säntis-experience! </H3>
+<p>The winning team will be rewarded with a breathtaking Säntis-experience! </p>
 <p>Enjoy a spectacular cable ride to the summit and a delicious lunch with stunning alpine view!</p>
