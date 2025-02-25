@@ -33,7 +33,7 @@ With a future-oriented mindset, we build bridges between industry, research and 
 The provided date includes:
  <ul>
     <li>Detailed description of 3 user profiles (personas).</li>
-    <li>Non-exhaustive CSV dataset of the innovation ecosystem of the Canton St. Gallen.</li>
+    <li>Non-exhaustive dataset in CSV format of the innovation ecosystem of the Canton St. Gallen.</li>
 </ul>
 
 ## <p align="center"> Technology </p>
