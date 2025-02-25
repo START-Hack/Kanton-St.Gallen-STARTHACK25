@@ -23,18 +23,16 @@ With a future-oriented mindset, we build bridges between industry, research and 
 <p>SME in the Canton of St. Gallen with the following profiles:</p>
 <ul>
     <li><strong>The Clueless</strong> – Unfamiliar with innovation; requires education and exposure.</li>
-    <li><strong>The Unmotivated</strong> – Aware of innovation but lacks motivation; requires incentives.</li>
     <li><strong>The Motivated</strong> – Eager to innovate but needs direction and resources.</li>
-    <li><strong>The Penniless</strong> – Has ideas but lacks funding; requires financial support.</li>
     <li><strong>The Hesitant</strong> – Interested but afraid of risks; needs confidence and safety nets.</li>
 </ul>
-<p>The solution should include as many users as possible, but at least three.</p>
+<p>The solution should include as all user types.</p>
 
 
 ## <p align="center"> Data </p>
 The provided date includes:
  <ul>
-    <li>Detailed description of 5 user profiles (personas).</li>
+    <li>Detailed description of 3 user profiles (personas).</li>
     <li>Non-exhaustive CSV dataset of the innovation ecosystem of the Canton St. Gallen.</li>
 </ul>
 
