@@ -32,7 +32,7 @@ With a future-oriented mindset, we build bridges between industry, research and 
 ## <p align="center"> Data </p>
 The provided date includes:
  <ul>
-    <li>Detailed description of 3 user profiles (personas).<a href="https://miro.com/app/board/uXjVLteXyxY=/">Miro Board</a>
+    <li>Detailed description of 3 user profiles (personas).<a href="https://xyz">Miro Board</a>
 </li>
     <li>Non-exhaustive dataset (CSV) of the innovation ecosystem of the Canton St. Gallen.</li>
 </ul>
