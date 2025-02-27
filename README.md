@@ -1,4 +1,4 @@
-# <p align="center"> InnoPortal - <br> An AI-Powered Guide for Personalized Innovation Experience </p>
+# <p align="center"> Innovation Coach - <br> An AI-Powered Guide for Personalized Innovation Experience </p>
 
 ## <p align="center"> Who are we? </p>
 <p>The Economic Promotion Office of the Canton of St. Gallen is a driving force behind economic growth, innovation, and business excellence in the region. As a catalyst for prosperity, we help to develop a thriving business environment, attract forward-thinking enterprises and strengthen St. Gallen’s position as a dynamic economic hub.
