@@ -106,4 +106,4 @@ The provided date includes:
 
 ## <p align="center"> Prize</p>
 <h3>The winning team will be rewarded with an unforgettable alpine experience!</h3> <br>
-Take a spectacular cable car ride to Säntis, one of the highest and most famous peaks in Eastern Switzerland. Once at the top, enjoy a delicious lunch while taking in the breathtaking mountain views!
+Take a spectacular cable car ride to the top of Säntis, one of the highest and most famous peaks in Eastern Switzerland. Once at the top, enjoy a delicious lunch while taking in the breathtaking mountain views!
