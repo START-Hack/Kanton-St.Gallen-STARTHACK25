@@ -34,7 +34,7 @@ The provided date includes:
  <ul>
     <li>Detailed description of 3 user profiles (personas).<a href="https://xyz">Miro Board</a>
 </li>
-    <li>Non-exhaustive dataset (CSV) of the innovation ecosystem of the Canton St. Gallen.</li>
+    <li>Non-exhaustive dataset of the innovation ecosystem of the Canton of St. Gallen.</li>
 </ul>
 
 ## <p align="center"> Technology </p>
