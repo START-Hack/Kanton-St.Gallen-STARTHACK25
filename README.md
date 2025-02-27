@@ -26,7 +26,7 @@ With a future-oriented mindset, we build bridges between industry, research and 
     <li><strong>The Motivated</strong> – Eager to innovate but needs direction and resources.</li>
     <li><strong>The Hesitant</strong> – Interested but afraid of risks; needs confidence and safety nets.</li>
 </ul>
-<p>The solution should include all user types.</p>
+<p>The solution should take into account all user types.</p>
 
 
 ## <p align="center"> Data </p>
