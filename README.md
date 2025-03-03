@@ -32,7 +32,7 @@ With a future-oriented mindset, we build bridges between industry, research and 
 ## <p align="center"> Data </p>
 The provided date includes:
  <ul>
-    <li>Detailed description of 3 user profiles (personas).<a href="https://xyz">Miro Board</a>
+    <li>Detailed description of 3 user profiles (personas) as <a href="https://github.com/START-Hack/Kanton-St.Gallen-STARTHACK25/blob/main/START%20Hack%2025_Canton%20of%20St.Gallen_Persona%20Profiles.pdf">PDF</a> or <a href="https://miro.com/app/board/uXjVIYCymF0=/?share_link_id=703067408571">Miro Board</a>
 </li>
     <li>Non-exhaustive dataset of the innovation ecosystem of the Canton of St.Gallen.</li>
 </ul>
@@ -54,6 +54,8 @@ The provided date includes:
 [Link to the video pitch]
 
 ## <p align="center"> Deep Dive Slides </p>
+
+You will find the Deep Dice Slides [here](https://github.com/START-Hack/Kanton-St.Gallen-STARTHACK25/blob/main/Deep%20Dive%20Slides%20START%20Hack%2025_Canton%20of%20St.Gallen_final.pdf)
 
 <p align="center">  </p>
 
