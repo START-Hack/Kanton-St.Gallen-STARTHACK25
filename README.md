@@ -34,7 +34,7 @@ The provided date includes:
  <ul>
     <li>Detailed description of 3 user profiles (personas) as <a href="https://github.com/START-Hack/Kanton-St.Gallen-STARTHACK25/blob/main/START%20Hack%2025_Canton%20of%20St.Gallen_Persona%20Profiles.pdf">PDF</a> or <a href="https://miro.com/app/board/uXjVIYCymF0=/?share_link_id=703067408571">Miro Board</a>
 </li>
-    <li>Non-exhaustive dataset of the innovation ecosystem of the Canton of St.Gallen.</li>
+    <li>Non-exhaustive <a href="https://github.com/START-Hack/Kanton-St.Gallen-STARTHACK25/blob/main/START%20Hack%2025_Canton%20of%20St.Gallen_dataset%20innovation%20ecosystem.xlsx">dataset</a> of the innovation ecosystem of the Canton of St.Gallen.</li>
 </ul>
 
 ## <p align="center"> Technology </p>
