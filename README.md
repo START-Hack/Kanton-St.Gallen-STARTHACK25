@@ -1,9 +1,9 @@
 # <p align="center"> Innovation Coach - <br> An AI-Powered Guide for Personalized Innovation Experience </p>
 
 ## <p align="center"> Who are we? </p>
-<p>The Economic Promotion Office of the Canton of St. Gallen is a driving force behind economic growth, innovation, and business excellence in the region. As a catalyst for prosperity, we help to develop a thriving business environment, attract forward-thinking enterprises and strengthen St. Gallen’s position as a dynamic economic hub.
+<p>The Economic Promotion Office of the Canton of St.Gallen is a driving force behind economic growth, innovation, and business excellence in the region. As a catalyst for prosperity, we help to develop a thriving business environment, attract forward-thinking enterprises and strengthen St.Gallen’s position as a dynamic economic hub.
 
-With a future-oriented mindset, we build bridges between industry, research and government, making St. Gallen not only a place to do business, but a place to succeed.
+With a future-oriented mindset, we build bridges between industry, research and government, making St.Gallen not only a place to do business, but a place to succeed.
 </p>
 
 ## <p align="center"> Case Introduction </p>
@@ -20,7 +20,7 @@ With a future-oriented mindset, we build bridges between industry, research and 
 </ul>
 
 <h3>Users</h3>
-<p>SME in the Canton of St. Gallen with the following profiles:</p>
+<p>SME in the Canton of St.Gallen with the following profiles:</p>
 <ul>
     <li><strong>The Clueless</strong> – Unfamiliar with innovation; requires education and exposure.</li>
     <li><strong>The Motivated</strong> – Eager to innovate but needs direction and resources.</li>
@@ -34,7 +34,7 @@ The provided date includes:
  <ul>
     <li>Detailed description of 3 user profiles (personas).<a href="https://xyz">Miro Board</a>
 </li>
-    <li>Non-exhaustive dataset of the innovation ecosystem of the Canton of St. Gallen.</li>
+    <li>Non-exhaustive dataset of the innovation ecosystem of the Canton of St.Gallen.</li>
 </ul>
 
 ## <p align="center"> Technology </p>
@@ -102,7 +102,7 @@ The provided date includes:
 </ul>
     
 ## <p align="center"> Point of Contact </p>
-<p>Simon Schlegel, Project Manager for Innovation at the Economic Promotion Office of the Canton of St. Gallen.</p>
+<p>Simon Schlegel, Project Manager for Innovation at the Economic Promotion Office of the Canton of St.Gallen.</p>
 
 ## <p align="center"> Prize</p>
 <h3>The winning team will be rewarded with an unforgettable alpine experience!</h3> <br>
