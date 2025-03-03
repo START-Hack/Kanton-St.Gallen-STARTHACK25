@@ -50,7 +50,7 @@ The provided date includes:
 
 ## <p align="center"> Deep Dive Slides </p>
 
-You will find the Deep Dice Slides [here](https://github.com/START-Hack/Kanton-St.Gallen-STARTHACK25/blob/main/Deep%20Dive%20Slides%20START%20Hack%2025_Canton%20of%20St.Gallen_final.pdf)
+You will find the Deep Dive Slides [here](https://github.com/START-Hack/Kanton-St.Gallen-STARTHACK25/blob/main/Deep%20Dive%20Slides%20START%20Hack%2025_Canton%20of%20St.Gallen_final.pdf)
 
 <p align="center">  </p>
 
