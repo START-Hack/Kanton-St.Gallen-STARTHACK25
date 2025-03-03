@@ -48,11 +48,6 @@ The provided date includes:
     <li><strong>Long-Term Motivation & Engagement:</strong> The dynamic coaching approach ensures that users feel supported throughout their innovation process.</li>
 </ul>
 
-
-
-## <p align="center"> The Pitch </p>
-[Link to the video pitch]
-
 ## <p align="center"> Deep Dive Slides </p>
 
 You will find the Deep Dice Slides [here](https://github.com/START-Hack/Kanton-St.Gallen-STARTHACK25/blob/main/Deep%20Dive%20Slides%20START%20Hack%2025_Canton%20of%20St.Gallen_final.pdf)
